@@ -5,14 +5,12 @@ permalink: /about
 ---
 # About the Comic
 
-Nulla scelerisque massa erat, ac fermentum tellus luctus a. Quisque turpis massa, scelerisque non mauris ac, mattis vehicula magna. Nunc viverra diam quis est dictum consequat. Quisque non sapien lectus. Integer a ligula ac velit euismod lobortis. Nullam commodo orci a magna varius, sed laoreet nulla auctor.
-
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
+I make dumb comics about my waterloo life, my programming struggles, being asian, and anything else I can make a punchline out of. I mainly use the pencil tool in MS paint as it is the peak of artistic expression. 
 
 {% include socialmedia.html %}
 
 # About the Author
 
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
+I'm a 4th year Computer Science student at the University of Waterloo. I like game design, history, and drawing stick figures. I aspire to be someone who is famous among a niche group of people, enough that I get an ego boost every once in a while, but not so famous that I need to start worrying about my own privacy. 
 
 {% include authorsocialmedia.html %}
